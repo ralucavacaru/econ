@@ -1,0 +1,14 @@
+<h3>Madagascar</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Ariary</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $22.3</li>
+	<li> <b>PIB/cap de locuitor:</b> $970</li>
+	<li> <b>GINI:</b> 44,1</li>
+	<li> <b>HDI:</b> 0.483 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 50%</li>
+</ul>

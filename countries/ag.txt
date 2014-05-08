@@ -1,0 +1,22 @@
+<h3>Antigua si Barabuda</h3>
+
+<p><b>Regim politic: </b> Monarhie constitutionala</p>
+
+<p><b>Moneda:</b> Dolarul Est Caraibean EC$</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $1.176 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $13428</li>
+	<li> <b>HDI:</b> 0.764(mare)</li>
+	<li> <b>Somaj:</b> 11%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Turism,investitii bancare</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> Nu exista date</li>
+	<li> <b>Import:</b>  SUA, China, Singapore, Germania, Spania</li>
+</ul>
+

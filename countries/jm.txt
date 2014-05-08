@@ -1,0 +1,15 @@
+<h3>Jamaica</h3>
+
+<p><b>Regim politic: </b> Monarhie constitutionala sub coroana britanica </p>
+
+<p><b>Moneda:</b> Dolar jamaican </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $25.2 </li>
+	<li> <b>PIB/cap de locuitor:</b> $9048 </li>
+	<li> <b>GINI:</b> 45,5 </li>
+	<li> <b>HDI:</b> 0.730 (ridicat) </li>
+	<li> <b>Somaj:</b> 11.3% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 16.5% </li>
+</ul>

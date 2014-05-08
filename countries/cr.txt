@@ -1,0 +1,15 @@
+<h3>Costa Rica</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Colon costarican</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $61.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $12942</li>
+	<li> <b>GINI:</b> 50,7</li>
+	<li> <b>HDI:</b> 0.773 (ridicat)</li>
+	<li> <b>Somaj:</b> 7.8%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 24.8%</li>
+</ul>

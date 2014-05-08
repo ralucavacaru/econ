@@ -1,0 +1,27 @@
+<h3>Vanuatu</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Tip de economie: </b>Mixta </p>
+
+<p><b>Moneda:</b> Vanuatu vatu </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $828 milioane</li>
+	<li> <b>PIB/cap de locuitor:</b> $4800</li>
+	<li> <b>HDI:</b> 0.626 (mediu) </li>
+	<li> <b>Somaj:</b> 1,5%</li>
+</ul>
+
+<p><b>Industrii principale: </b>Carne de vita, cacao, lemn, kava si cafea
+ </p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> Tailanda, Cote D'Ivoire, Japonia </li>
+	<li> <b>Import:</b> China, Singapore, SUA, Japonia, Australia, Fiji, Noua Zeelanda </li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Vanuatu este un paradis fiscal.  </p>

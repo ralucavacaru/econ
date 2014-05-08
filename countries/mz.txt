@@ -1,0 +1,16 @@
+<h3>Mozambic</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Metical</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $28.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $1090</li>
+	<li> <b>GINI:</b> 45,7</li>
+	<li> <b>HDI:</b> 0.327 (scazut)</li>
+	<li> <b>Somaj:</b> 60.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 52%</li>
+</ul>
+

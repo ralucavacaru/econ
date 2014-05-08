@@ -1,0 +1,14 @@
+<h3>Guiana Franceza</h3>
+
+<p><b>Regim politic: </b> Teritoriu francez</p>
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $4.9</li>
+	<li> <b>PIB/cap de locuitor:</b> $19828</li>
+	<li> <b>GINI:</b> 44,5</li>
+	<li> <b>HDI:</b> 0.811 (foarte ridicat)</li>
+</ul>
+

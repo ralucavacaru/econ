@@ -1,0 +1,15 @@
+<h3>Norvegia</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala </p>
+
+<p><b>Moneda:</b> Coroana norvegiana</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $280.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $54947</li>
+	<li> <b>GINI:</b> 25,8</li>
+	<li> <b>HDI:</b> 0.955 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 3.5%</li>
+</ul>
+

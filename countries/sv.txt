@@ -1,0 +1,16 @@
+<h3>El Salvador</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Colon salvadorian, Dolar american</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $47.5</li>
+	<li> <b>PIB/cap de locuitor:</b> $7515</li>
+	<li> <b>GINI:</b> 48,3</li>
+	<li> <b>HDI:</b> 0.680 (mediu)</li>
+	<li> <b>Somaj:</b> 6.1%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 36.5%</li>
+</ul>
+

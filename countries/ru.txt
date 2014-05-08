@@ -1,0 +1,28 @@
+<h3>Federatia Rusa</h3>
+
+<p><b>Regim politic: </b> Republica federala constitutionala semi-prezidentiala</p>
+
+<p><b>Tip de economie: </b> Capitalism oligarhic</p>
+
+<p><b>Moneda:</b> Rubla</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $2,118 trilioane</li>
+	<li> <b>PIB/cap de locuitor:</b> $14973</li>
+	<li> <b>GINI:</b> 41.7 (mediu)</li>
+	<li> <b>HDI:</b> 0.788 (ridicat)</li>
+	<li> <b>Somaj:</b> 6.6%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Industrie extractiva si energetica</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b>  Olanda, China, Germania, Italia</li>
+	<li> <b>Import:</b>  China, Germania, Japonia, SUA</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Statele europene au o dependenta energetica puternica fata de Rusia.</b>
+

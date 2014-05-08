@@ -1,0 +1,14 @@
+<h3>Gambia</h3>
+
+<p><b>Regim politic: </b> Republica prezidentiala</p>
+
+<p><b>Moneda:</b> Dalasi</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $3.7</li>
+	<li> <b>PIB/cap de locuitor:</b> $19478</li>
+	<li> <b>GINI:</b> 47,3</li>
+	<li> <b>HDI:</b> 0.439 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 48.4%</li>
+</ul>

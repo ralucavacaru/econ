@@ -1,0 +1,15 @@
+<h3>Estonia</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $29.8</li>
+	<li> <b>PIB/cap de locuitor:</b> $23144</li>
+	<li> <b>GINI:</b> 36</li>
+	<li> <b>HDI:</b> 0.846 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 8.7%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 17.5%</li>
+</ul>

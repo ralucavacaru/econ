@@ -1,0 +1,11 @@
+<h3>Australia</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala</p>
+
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>GINI:</b> 30,5</li>
+	<li> <b>HDI:</b> 0.938 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 5.8%</li>
+</ul>

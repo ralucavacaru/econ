@@ -1,0 +1,17 @@
+<h3>Finlanda</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $194.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $35617</li>
+	<li> <b>GINI:</b> 26,9</li>
+	<li> <b>HDI:</b> 0.892 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 8.4%</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Finlanda mai este numita "jackpotul lumii" pentru ca este un stat asistential, cu sistem universal de sanatate si educatie universitara gratuita.  </p>

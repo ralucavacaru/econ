@@ -1,0 +1,18 @@
+<h3>Grecia</h3>
+
+<p><b>Regim politic: </b> Republica parlamentara</p>
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $265.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $24012</li>
+	<li> <b>GINI:</b> 34,3</li>
+	<li> <b>HDI:</b> 0.860 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 27.5%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 47%</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Datorita evaziunii fiscale masive, Grecia a intrat intr-o criza financiara foarte aspra si a avut nevoie de ajutor financiar de la UE, destabilizand intreaga zona euro. </p>

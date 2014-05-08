@@ -1,0 +1,15 @@
+<h3>Malaezia</h3>
+
+<p><b>Regim politic: </b> Monarhie constitutionala</p>
+
+<p><b>Moneda:</b> Ringgit</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $525.7</li>
+	<li> <b>PIB/cap de locuitor:</b> $17748</li>
+	<li> <b>GINI:</b> 46,2</li>
+	<li> <b>HDI:</b> 0.769 (ridicat)</li>
+	<li> <b>Somaj:</b> 3.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 3.8%</li>
+</ul>

@@ -1,0 +1,15 @@
+<h3>Malawi</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b>Kwacha malawian </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $15.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $879</li>
+	<li> <b>GINI:</b> 39</li>
+	<li> <b>HDI:</b> 0.418 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 53%</li>
+</ul>
+

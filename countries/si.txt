@@ -1,0 +1,15 @@
+<h3>Slovenia</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $57.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $27900</li>
+	<li> <b>GINI:</b> 31,2</li>
+	<li> <b>HDI:</b> 0.892 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 9.8%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 13.6%</li>
+</ul>

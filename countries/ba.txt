@@ -1,0 +1,15 @@
+<h3>Bosnia si Hertegovina</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara</p>
+
+
+<p><b>Moneda:</b> Marcă bosniacă convertibilă</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $32.1 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $8280</li>
+	<li> <b>GINI:</b> 36,2</li>
+	<li> <b>HDI:</b> 0.735 (ridicat)</li>
+	<li> <b>Somaj:</b> 27.2%</li>
+</ul>

@@ -1,0 +1,28 @@
+<h3>Bhutan</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala parlamentara unitara </p>
+
+<p><b>Tip de economie: </b> Economie traditionala </p>
+
+<p><b>Moneda:</b> Ngultrum butanez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $1,488 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $2121</li>
+	<li> <b>GINI:</b> 38.7 (mediu)</li>
+	<li> <b>HDI:</b> 0.538 (mediu)</li>
+	<li> <b>Somaj:</b> 4%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Ciment, produse forestiere, alcool</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b>  India, Hong-Kong, Bangladesh</li>
+	<li> <b>Import:</b>  India, Japonia, Suedia</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Au propriul indice economic numit GNH (Fericire Nationala Bruta) in care masoara satisfactia domestica intr-un mod mult mai holistic, prin indici cum ar fi multumire economica, mentala, sociala, politica etc.</p>
+

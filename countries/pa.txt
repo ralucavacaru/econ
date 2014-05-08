@@ -1,0 +1,16 @@
+<h3>Panama</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Balboa, Dolar american</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $62.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $16568</li>
+	<li> <b>GINI:</b> 51,9</li>
+	<li> <b>HDI:</b> 0.780 (ridicat)</li>
+	<li> <b>Somaj:</b> 5.6%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 26%</li>
+</ul>
+

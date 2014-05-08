@@ -1,0 +1,16 @@
+<h3>Nigeria</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala</p>
+
+<p><b>Moneda:</b> Naira</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $479.3</li>
+	<li> <b>PIB/cap de locuitor:</b> $2831</li>
+	<li> <b>GINI:</b> 48,8</li>
+	<li> <b>HDI:</b> 0.471 (scazut)</li>
+	<li> <b>Somaj:</b> 9.9%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 70%</li>
+</ul>
+

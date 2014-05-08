@@ -1,0 +1,18 @@
+<h3>Laos</h3>
+
+<p><b>Regim politic: </b>Republica socialista monopartida </p>
+
+<p><b>Moneda:</b> Kip</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $20.8</li>
+	<li> <b>PIB/cap de locuitor:</b> $3068</li>
+	<li> <b>GINI:</b> 36,7</li>
+	<li> <b>HDI:</b> 0.543 (mediu)</li>
+	<li> <b>Somaj:</b> 2.5%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 26%</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Este unul dintre singurele statele marxiste din lume. </p>

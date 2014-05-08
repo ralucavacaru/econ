@@ -1,0 +1,16 @@
+<h3>Chad</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc CFA BEAC</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $28.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $2539</li>
+	<li> <b>GINI:</b> 39,8</li>
+	<li> <b>HDI:</b> 0.340 (scazut)</li>
+	<li> <b>Somaj:</b> 22.6%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 80%</li>
+</ul>
+

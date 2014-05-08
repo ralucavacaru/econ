@@ -1,0 +1,24 @@
+<h3>Venezuela</h3>
+
+<p><b>Regim politic: </b>Republica federala </p>
+
+<p><b>Tip de economie: </b>Economie de piata </p>
+
+<p><b>Moneda:</b>Bolivar venezuelan </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $367.5 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $13600</li>
+	<li> <b>GINI:</b> 39 (mediu)</li>
+	<li> <b>HDI:</b> 0.748  (ridicat)        </li>
+	<li> <b>Somaj:</b> 7.9%</li>
+</ul>
+
+<p><b>Industrii principale: </b>Principalele produse ale industriilor din Venezuela sunt cele de petrol, otel, aluminiu, ingrasaminte, ciment, pneuri si constructia de masini.  </p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> SUA, China, India, Olanda,Antilles, Cuba </li>
+	<li> <b>Import:</b> SUA, China, Brazilia, Columbia </li>
+</ul>

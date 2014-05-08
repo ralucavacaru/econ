@@ -1,0 +1,27 @@
+<h3>Cuba</h3>
+
+<p><b>Regim politic: </b> Republica Marxist-Leninista</p>
+
+<p><b>Tip de economie: </b> Capitalism statal</p>
+
+<p><b>Moneda:</b> Peso</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $121 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $10200</li>
+	<li> <b>GINI:</b> 38.0 (mediu)</li>
+	<li> <b>HDI:</b> 0.780 (high)</li>
+	<li> <b>Somaj:</b> 1.4%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Zahar, petrol, tutun, constructii</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b>  Canada, China, Venezuela, Olanda, Spania</li>
+	<li> <b>Import:</b>  Venezuela, China, Spania, Brazilia</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>A fost pusa sub embargo extins de catre SUA in 1962. Embargoul nu a fost ridicat nici astazi. </p>

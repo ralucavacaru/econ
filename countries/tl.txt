@@ -1,0 +1,15 @@
+<h3>Timorul de Est</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Dolar american</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $25.8</li>
+	<li> <b>PIB/cap de locuitor:</b> $21705</li>
+	<li> <b>GINI:</b> 31,9</li>
+	<li> <b>HDI:</b> 0.576 (mediu)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 41%</li>
+</ul>
+

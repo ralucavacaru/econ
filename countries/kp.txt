@@ -1,0 +1,16 @@
+<h3>Coreea de Nord</h3>
+
+<p><b>Regim politic: </b>Juche (sistem ereditar, totalitar, monopartit)  </p>
+
+<p><b>Moneda:</b> Won nord-coreean</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $40.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $1800</li>
+	<li> <b>HDI:</b> 0.733 (mediu)</li>
+	
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Exista un embargo aproape total pe Coreea de Nord datorita problemelor cu nerespectarea drepturilor omului. China este singurul stat care inca face comert cu Coreea de Nord. </p>

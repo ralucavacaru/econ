@@ -1,0 +1,14 @@
+<h3>Polinezia Franceza</h3>
+
+<p><b>Regim politic: </b>Teritoriu dependent de Franta </p>
+
+<p><b>Moneda:</b> Franc CFP</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $5.65</li>
+	<li> <b>PIB/cap de locuitor:</b> $22000</li>
+	<li> <b>HDI:</b> 0.895 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 11.7%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 19.7%</li>
+</ul>

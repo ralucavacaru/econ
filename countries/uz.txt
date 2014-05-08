@@ -1,0 +1,24 @@
+<h3>Uzbekistan</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Tip de economie: </b>Economie in tranzitie catre economie de piata </p>
+
+<p><b>Moneda:</b>Somul uzbec </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $104.7 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $3800</li>
+	<li> <b>GINI:</b> 36.8 (mediu) </li>
+	<li> <b>HDI:</b> 0.654 (mediu)</li>
+	<li> <b>Somaj:</b> 4.9% </li>
+</ul>
+
+<p><b>Industrii principale: </b>Agricultura (50%), bumbac, minereuri (aur - 20% din export)</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> China, Kazahstan, Turcia, Rusia, Bangladesh, Kyrgyzstan  </li>
+	<li> <b>Import:</b> Rusia, China, Coreea de Sud, Kazahstan, Germania, Turcia, Ucraina </li>
+</ul>

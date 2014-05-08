@@ -1,0 +1,26 @@
+<h3>Iordania</h3>
+
+<p><b>Regim politic: </b>Monarhie Constitutionala </p>
+
+<p><b>Tip de economie: </b>Dirijata </p>
+
+<p><b>Moneda:</b> Dinar iordanian </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $39,29 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $6100</li>
+	<li> <b>GINI:</b> 35,4 (mediu)</li>
+	<li> <b>HDI:</b> 0,700 (mediu)</li>
+	<li> <b>Somaj:</b> 13% (datele nu sunt clare, unii analisti estimeaza la 25% si 30% din populatia tanara)</li>
+</ul>
+
+<p><b>Industrii principale: </b> Finante, comert, transport, telecomunicatie, constructii, industria de minat, manufactura</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export/Import:</b> Rate preferentiale cu Uniunea Europeana si Turcia, facand parte din zona de "free-trade" euro-mediteraneana. </li>
+</ul>
+
+<p><b>Altele: </b>Nu prea exista notiunea de sector privat, statul angajeaza 70% din toti lucratorii.</p>
+<p> </p>

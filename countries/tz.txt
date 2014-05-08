@@ -1,0 +1,14 @@
+<h3>Tanzania</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Siling tanzanian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $79.4</li>
+	<li> <b>PIB/cap de locuitor:</b> $1715</li>
+	<li> <b>GINI:</b> 37,6</li>
+	<li> <b>HDI:</b> 0.476 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 36%</li>
+</ul>

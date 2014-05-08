@@ -1,0 +1,15 @@
+<h3>Romania</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Leu romanesc</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $285.1</li>
+	<li> <b>PIB/cap de locuitor:</b> $13396</li>
+	<li> <b>GINI:</b> 30</li>
+	<li> <b>HDI:</b> 0.786 (ridicat)</li>
+	<li> <b>Somaj:</b> 7.2%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 22.2%</li>
+</ul>

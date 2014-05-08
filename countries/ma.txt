@@ -1,0 +1,15 @@
+<h3>Maroc</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala </p>
+
+<p><b>Moneda:</b> Dirham marocan</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $179.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $5456</li>
+	<li> <b>GINI:</b> 40,9</li>
+	<li> <b>HDI:</b> 0.591 (mediu)</li>
+	<li> <b>Somaj:</b> 10.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 15%</li>
+</ul>

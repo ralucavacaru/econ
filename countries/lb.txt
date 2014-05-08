@@ -1,0 +1,14 @@
+<h3>Liban</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Lirã libanezã</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $66.3</li>
+	<li> <b>PIB/cap de locuitor:</b> $14845</li>
+	<li> <b>HDI:</b> 0.745 (ridicat)</li>
+	<li> <b>Somaj:</b> 10.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 28%</li>
+</ul>

@@ -1,0 +1,16 @@
+<h3>Nicaragua</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Cordoba</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $27.9</li>
+	<li> <b>PIB/cap de locuitor:</b> $4554</li>
+	<li> <b>GINI:</b> 40,5</li>
+	<li> <b>HDI:</b> 0.599 (mediu)</li>
+	<li> <b>Somaj:</b> 5.9%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 42.5%</li>
+</ul>
+

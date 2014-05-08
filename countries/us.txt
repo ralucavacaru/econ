@@ -1,0 +1,25 @@
+<h3>Statele Unite ale Americii</h3>
+
+<p><b>Regim politic: </b> Republica federala</p>
+
+<p><b>Tip de economie: </b> Economie de piata</p>
+
+<p><b>Moneda:</b> Dolar american</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $17,438 trilioane</li>
+	<li> <b>PIB/cap de locuitor:</b> $54609</li>
+	<li> <b>GINI:</b> 47.7 (ridicat)</li>
+	<li> <b>HDI:</b> 0.937 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 6.6%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Industriile sunt foarte diversificate, concentrate in special pe tehnologie inovatoare. Printre altele se numara petrolul, telecomunicatii, bunuri de consum</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> Canada, Mexic, China, Japonia </li>
+	<li> <b>Import:</b> Canada, Mexic, China, Japoina </li>
+</ul>
+

@@ -1,0 +1,14 @@
+<h3>Sao Tome si Principe</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Dobra</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $0.42</li>
+	<li> <b>PIB/cap de locuitor:</b> $2194</li>
+	<li> <b>GINI:</b> 50,8</li>
+	<li> <b>HDI:</b> 0.525 (mediu)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 66.2%</li>
+</ul>

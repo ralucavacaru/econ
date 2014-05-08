@@ -1,0 +1,15 @@
+<h3>Mauritania</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Ouguiya</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $8.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $2128</li>
+	<li> <b>GINI:</b> 40,5</li>
+	<li> <b>HDI:</b> 0.467 (scazut)</li>
+	<li> <b>Somaj:</b> 30.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 40%</li>
+</ul>

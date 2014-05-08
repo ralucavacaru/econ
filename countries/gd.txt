@@ -1,0 +1,16 @@
+<h3>Grenada</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala sub coroana britanica </p>
+
+<p><b>Moneda:</b> Dolar est-caraiban</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $1.45</li>
+	<li> <b>PIB/cap de locuitor:</b> $13724</li>
+	<li> <b>HDI:</b> 0.770 (ridicat)</li>
+	<li> <b>Somaj:</b> 24.5%</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Dependenta de Marea Britanie </p>

@@ -1,0 +1,16 @@
+<h3>Angola</h3>
+
+<p><b>Regim politic: </b> Republica prezidentiala</p>
+
+
+<p><b>Moneda:</b> Kwanza</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b>  $130.1 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $6247</li>
+	<li> <b>GINI:</b> 58,6</li>
+	<li> <b>HDI:</b> 0.508 (scazut)</li>
+</ul>
+
+

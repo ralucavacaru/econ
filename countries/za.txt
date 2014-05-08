@@ -1,0 +1,24 @@
+<h3>Africa de Sud</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara consitutionala </p>
+
+<p><b>Tip de economie: </b>Economie capitalista mixta </p>
+
+<p><b>Moneda:</b> Rand </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $623,201 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $11914</li>
+	<li> <b>GINI:</b> 63.1 (foarte ridicat)</li>
+	<li> <b>HDI:</b> 0,629 (mediu)</li>
+	<li> <b>Somaj:</b> 25.2%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Minerit (cel mai mare producator de Platina), aur, masini, textile</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> China, SUA, Japonia, Germania, India, UK </li>
+	<li> <b>Import:</b> China, Germania, SUA, Arabia Saudita, India </li>
+</ul>

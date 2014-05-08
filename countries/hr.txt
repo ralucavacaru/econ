@@ -1,0 +1,16 @@
+<h3>Croatia</h3>
+
+<p><b>Regim politic: </b> Republica parlamentara</p>
+
+<p><b>Moneda:</b> Kuna</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $77.9</li>
+	<li> <b>PIB/cap de locuitor:</b> $18191</li>
+	<li> <b>GINI:</b> 33,7</li>
+	<li> <b>HDI:</b> 0.805 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 17.6%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 21.1%</li>
+</ul>
+

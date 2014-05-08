@@ -1,0 +1,15 @@
+<h3>Brazilia</h3>
+
+<p><b>Regim politic: </b> Republica prezidentiala</p>
+
+<p><b>Moneda:</b> Real </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $2423.3</li>
+	<li> <b>PIB/cap de locuitor:</b> $12211</li>
+	<li> <b>GINI:</b> 57,7</li>
+	<li> <b>HDI:</b> 0.730 (ridicat)</li>
+	<li> <b>Somaj:</b> 5.4%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 21.4%</li>
+</ul>

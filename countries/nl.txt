@@ -1,0 +1,28 @@
+<h3>Tarile de Jos</h3>
+
+<p><b>Regim politic: </b> Democratie parlamentara unitara sub monarhie constitutionala </p>
+
+<p><b>Tip de economie: </b> Economie liberala de piata</p>
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $696,308 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $41447</li>
+	<li> <b>GINI:</b> 25.8 (scazut)</li>
+	<li> <b>HDI:</b> 0.921 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 4.4%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Inginerie, metal, echipament electronic, chimica, microelectronice, pescuit</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b>  Germania, Belgia, Franta, UK, Italia</li>
+	<li> <b>Import:</b>  Germania, China, Belgia, Rusia, SUA</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Ei au creat prima bursa din lume si primele societati pe actiuni. </p>
+<p>Este un stat de tip "welfare", ceea ce inseamna ca taxeaza mult insa ofera sistem de sanatate si educatie gratuite.</p>

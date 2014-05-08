@@ -1,0 +1,16 @@
+<h3>Argentina</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala</p>
+
+<p><b>Tip de economie: </b> Economie in tranzitie catre economie de piata</p>
+
+<p><b>Moneda:</b> Peso argentinian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $778.0 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $18749</li>
+	<li> <b>GINI:</b> 44,5</li>
+	<li> <b>HDI:</b> 0.811 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 7.1%</li>
+</ul>

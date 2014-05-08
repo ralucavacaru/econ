@@ -1,0 +1,15 @@
+<h3>Groenlanda</h3>
+
+<p><b>Regim politic: </b> Democratie parlamentara sub monarhie constitutionala (stat autonom sub Danemarca)</p>
+
+<p><b>Moneda:</b> Coroana daneza</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $2.13</li>
+	<li> <b>PIB/cap de locuitor:</b> $37009</li>
+	<li> <b>HDI:</b> 0.869 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 7.8%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 9.2%</li>
+</ul>
+

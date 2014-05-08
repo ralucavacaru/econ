@@ -1,0 +1,16 @@
+<h3>Parabuay</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Guaraní</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $46.4</li>
+	<li> <b>PIB/cap de locuitor:</b> $6823</li>
+	<li> <b>GINI:</b> 52,4</li>
+	<li> <b>HDI:</b> 0.669 (mediu)</li>
+	<li> <b>Somaj:</b> 6.9%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 34.7%</li>
+</ul>
+

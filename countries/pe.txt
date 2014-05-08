@@ -1,0 +1,16 @@
+<h3>Peru</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Nuevo Sol</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $344.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $11124</li>
+	<li> <b>GINI:</b> 48,1</li>
+	<li> <b>HDI:</b> 0.741 (ridicat)</li>
+	<li> <b>Somaj:</b> 5.8%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 25.8%</li>
+</ul>
+

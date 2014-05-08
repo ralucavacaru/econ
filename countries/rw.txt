@@ -1,0 +1,15 @@
+<h3>Rwanda</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Franc ruandez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $16.4</li>
+	<li> <b>PIB/cap de locuitor:</b> $1538</li>
+	<li> <b>GINI:</b> 50,8</li>
+	<li> <b>HDI:</b> 0.434 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 44.9%</li>
+</ul>
+

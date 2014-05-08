@@ -1,0 +1,18 @@
+<h3>Elvetia</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc elvetian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $371.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $46430</li>
+	<li> <b>GINI:</b> 33,7</li>
+	<li> <b>HDI:</b> 0.913 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 3.1%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 7.9%</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Elvetia este unul dintre statele declarate "neutre" pe scena internationala, motiv pentru care nu a intrat in Uniunea Europeana, insa are tratat de comert liber cu UE </p>

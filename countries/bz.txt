@@ -1,0 +1,15 @@
+<h3>Belize</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala</p>
+
+<p><b>Moneda:</b> Dolar din Belize</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $3.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $8716</li>
+	<li> <b>GINI:</b> 52,1</li>
+	<li> <b>HDI:</b> 0.702 (mediu)</li>
+	<li> <b>Somaj:</b> 11.3%</li>
+	<li> <b>Populatie sub limita saraciei:</b> </li>
+</ul>

@@ -1,0 +1,15 @@
+<h3>Irlanda</h3>
+
+<p><b>Regim politic: </b> Republica parlamentara </p>
+
+<p><b>Moneda:</b> Euro </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $1988.9 </li>
+	<li> <b>PIB/cap de locuitor:</b> $39547 </li>
+	<li> <b>GINI:</b> 34,3 </li>
+	<li> <b>HDI:</b> 0.916 (foarte ridicat) </li>
+	<li> <b>Somaj:</b> 11.9% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 5.5% </li>
+</ul>

@@ -1,0 +1,16 @@
+<h3>Pakistan</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Rupie pakistanezã</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $575.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $3149</li>
+	<li> <b>GINI:</b> 30</li>
+	<li> <b>HDI:</b> 0.515 (scazut)</li>
+	<li> <b>Somaj:</b> 6.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 22.6%</li>
+</ul>
+

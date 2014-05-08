@@ -1,0 +1,13 @@
+<h3>Brunei Darussalam</h3>
+
+<p><b>Regim politic: </b>Monarhie absoluta </p>
+
+<p><b>Moneda:</b> Dolar din Brunei, Dolar singaporez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $21.7</li>
+	<li> <b>PIB/cap de locuitor:</b> $53431</li>
+	<li> <b>HDI:</b> 0.855 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 2.6%</li>
+</ul>

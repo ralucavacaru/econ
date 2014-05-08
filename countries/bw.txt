@@ -1,0 +1,16 @@
+<h3>Botswana</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Pula</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $34.1</li>
+	<li> <b>PIB/cap de locuitor:</b> $16377</li>
+	<li> <b>GINI:</b> 61</li>
+	<li> <b>HDI:</b> 0.634 (mediu)</li>
+	<li> <b>Somaj:</b> 17.8%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 30.3%</li>
+</ul>
+

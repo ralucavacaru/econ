@@ -1,0 +1,20 @@
+<h3>Afganistan</h3>
+
+<p><b>Regim politic: </b> Republica islamica</p>
+
+<p><b>Tip de economie: </b> Economie mixta (a 28a cea mai libera economie)</p>
+
+<p><b>Moneda:</b> Afgani</p>
+
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b>  $35.1 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $1150</li>
+	<li> <b>GINI:</b> 24,8</li>
+	<li> <b>HDI:</b> 0.374 (scazut) </li>
+	<li> <b>Somaj:</b> 35% </li>
+</ul>
+
+
+

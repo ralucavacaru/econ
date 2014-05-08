@@ -1,0 +1,25 @@
+<h3>Vietnam</h3>
+
+<p><b>Regim politic: </b>Republica socialista (stat comunist)  </p>
+
+<p><b>Tip de economie: </b>Economie mixta, cu tenta socialista </p>
+
+<p><b>Moneda:</b> Dong </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $170 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $4000</li>
+	<li> <b>GINI:</b> 37.6 (mediu) </li>
+	<li> <b>HDI:</b> 0.617 (mediu) </li>
+	<li> <b>Somaj:</b> 1.3%</li>
+</ul>
+
+<p><b>Industrii principale: </b>Cele mai importante industrii sunt: alimentara, pescuitul, metalurgica si fosfatii. </p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> SUA, Japonia, China, Coreea de Sud, Malaezia </li>
+	<li> <b>Import:</b> China, Coreea de Sud, Japonia, Singapore, Tailanda, SUA </li>
+</ul>
+

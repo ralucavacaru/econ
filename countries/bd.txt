@@ -1,0 +1,16 @@
+<h3>Bangladesh</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Taka</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB(miliarde):</b> $325.1 </li>
+	<li> <b>PIB/cap de locuitor:</b> 2080</li>
+	<li> <b>GINI:</b> 32.1</li>
+	<li> <b>HDI:</b> 0.515 (scazut)</li>
+	<li> <b>Somaj:</b> 5.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 31.5% </li>
+</ul>
+

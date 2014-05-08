@@ -1,0 +1,15 @@
+<h3>Mali</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Franc CFA BCEAO</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $18.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $1103</li>
+	<li> <b>GINI:</b> 33</li>
+	<li> <b>HDI:</b> 0.344 (scazut)</li>
+	<li> <b>Somaj:</b> 13.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 36.1%</li>
+</ul>

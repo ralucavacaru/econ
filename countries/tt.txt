@@ -1,0 +1,14 @@
+<h3>Trinidad-Tobago</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Dolar din Trinidad si Tobago </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $27.5</li>
+	<li> <b>PIB/cap de locuitor:</b> $20438</li>
+	<li> <b>HDI:</b> 0.760 (ridicat)</li>
+	<li> <b>Somaj:</b> 5.8%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 17%</li>
+</ul>

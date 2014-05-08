@@ -1,0 +1,18 @@
+<h3>Egipt</h3>
+
+<p><b>Regim politic: </b>Republica Constututionala Semi-Prezidentiala </p>
+
+<p><b>Tip de economie: </b>Mixta </p>
+
+<p><b>Moneda:</b>Lira Egipteana  </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $576 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $6714</li>
+	<li> <b>GINI:</b> 30,8 (mediu)</li>
+	<li> <b>HDI:</b> 0,662 (mediu)</li>
+	<li> <b>Somaj:</b> 13.4%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Turism, agricultura, energetic (petrol, carbune, gaz natural si putere hidroenergetica)</p>

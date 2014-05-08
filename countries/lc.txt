@@ -1,0 +1,13 @@
+<h3>Sfanta Lucia</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala sub coroana britanica </p>
+
+<p><b>Moneda:</b> Dolar est-caraiban</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $2.15</li>
+	<li> <b>PIB/cap de locuitor:</b> $12730</li>
+	<li> <b>HDI:</b> 0.725 (ridicat)</li>
+	<li> <b>Somaj:</b> 15.7%</li>
+</ul>

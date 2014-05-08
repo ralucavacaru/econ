@@ -1,0 +1,16 @@
+<h3>Macedonia</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Denar macedonean</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $22.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $10904</li>
+	<li> <b>GINI:</b> 43,2</li>
+	<li> <b>HDI:</b> 0.740 (ridicat)</li>
+	<li> <b>Somaj:</b> 28.6%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 30.4%</li>
+</ul>
+

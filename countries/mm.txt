@@ -1,0 +1,14 @@
+<h3>Myanmar</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Kyat</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $113.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $1740</li>
+	<li> <b>HDI:</b> 0.498 (scazut)</li>
+	<li> <b>Somaj:</b> 5.4%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 32.7%</li>
+</ul>

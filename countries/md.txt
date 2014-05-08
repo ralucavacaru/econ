@@ -1,0 +1,15 @@
+<h3>Moldova</h3>
+
+<p><b>Regim politic: </b> Republica parlamentara </p>
+
+<p><b>Moneda:</b> Leu moldovenesc </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $13.3 </li>
+	<li> <b>PIB/cap de locuitor:</b> $3736 </li>
+	<li> <b>GINI:</b> 33 </li>
+	<li> <b>HDI:</b> 0.660 (mediu) </li>
+	<li> <b>Somaj:</b> 9.1% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 21.9% </li>
+</ul>

@@ -1,0 +1,27 @@
+<h3>Emiratele Arabe Unite</h3>
+
+<p><b>Regim politic: </b> Federatie constitutionala a monarhiilor absolute cu un presedinte executiv ales de un Consiliu</p>
+
+<p><b>Tip de economie: </b> Economie mixta (a 28a cea mai libera economie)</p>
+
+<p><b>Moneda:</b> Dirham UAE</p>
+
+<p><b>Taxare: </b> Depinde in functie de emirat</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b>  $271.3 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $29176</li>
+	<li> <b>GINI:</b> 36 (mediu)</li>
+	<li> <b>HDI:</b> 0,818 (foarte mare)</li>
+	<li> <b>Somaj:</b> 2.4% </li>
+</ul>
+
+<p><b>Industrii principale: </b> Petrol si petrochimie, pescuit, aluminiu, ciment, fertilizatori, constructie de materiale, textile</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> Japonia, India, Iran, Tailanda, Singapore, Coreea de Sud </li>
+	<li> <b>Import:</b> India, China, SUA, Germania, Japonia </li>
+</ul>
+

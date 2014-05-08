@@ -1,0 +1,16 @@
+<h3>Papua Noua Guinee</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala (sub coroana britanica) </p>
+
+<p><b>Moneda:</b> Kina</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $19.8</li>
+	<li> <b>PIB/cap de locuitor:</b> $2834</li>
+	<li> <b>GINI:</b> 50,9</li>
+	<li> <b>HDI:</b> 0.466 (scazut)</li>
+	<li> <b>Somaj:</b> 1.9%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 37%</li>
+</ul>
+

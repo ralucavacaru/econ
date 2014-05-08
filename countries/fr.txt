@@ -1,0 +1,15 @@
+<h3>Franta</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $2333.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $35784</li>
+	<li> <b>GINI:</b> 32,7</li>
+	<li> <b>HDI:</b> 0.893 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 10.4%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 7.8%</li>
+</ul>

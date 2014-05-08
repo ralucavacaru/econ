@@ -1,0 +1,18 @@
+<h3>Portugalia</h3>
+
+<p><b>Regim politic: </b> Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Euro </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $244.8 </li>
+	<li> <b>PIB/cap de locuitor:</b> $23068 </li>
+	<li> <b>GINI:</b> 38,5 </li>
+	<li> <b>HDI:</b> 0.816 (foarte ridicat) </li>
+	<li> <b>Somaj:</b> 15.3% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 18% </li>
+</ul>
+
+<p><b>Altele: </b> Banca Nationala a Pportugaliei are cea mai mare rezerva de aur din lume </p>
+<p> </p>

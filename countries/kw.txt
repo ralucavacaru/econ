@@ -1,0 +1,15 @@
+<h3>Kuweit</h3>
+
+<p><b>Regim politic: </b>Emirat ereditar </p>
+
+<p><b>Moneda:</b> Dinar kuweitian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $154.5</li>
+	<li> <b>PIB/cap de locuitor:</b> $37706</li>
+	<li> <b>HDI:</b> 0.709 (mediu)</li>
+	<li> <b>Somaj:</b> 1.5%</li>
+</ul>
+
+

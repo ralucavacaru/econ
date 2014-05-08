@@ -1,0 +1,15 @@
+<h3>Ungaria </h3>
+
+<p><b>Regim politic: </b> Republica parlamentara </p>
+
+<p><b>Moneda:</b> Forint </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $198.2 </li>
+	<li> <b>PIB/cap de locuitor:</b> 20065$ </li>
+	<li> <b>GINI:</b> 31,2 </li>
+	<li> <b>HDI:</b> 0.831 (foarte ridicat) </li>
+	<li> <b>Somaj:</b> 8.3% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 14% </li>
+</ul>

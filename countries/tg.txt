@@ -1,0 +1,14 @@
+<h3>Togo</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc CFA BCEAO</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $7.4</li>
+	<li> <b>PIB/cap de locuitor:</b> $1084</li>
+	<li> <b>GINI:</b> 34,7</li>
+	<li> <b>HDI:</b> 0.459 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 32%</li>
+</ul>

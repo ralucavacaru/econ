@@ -1,0 +1,14 @@
+<h3>Burkina Faso</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Franc CFA BCEAO </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $26.6</li>
+	<li> <b>PIB/cap de locuitor:</b> 1585</li>
+	<li> <b>GINI:</b> 39,8</li>
+	<li> <b>HDI:</b> 0.343 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 46.7%</li>
+</ul>

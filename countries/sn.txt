@@ -1,0 +1,15 @@
+<h3>Senegal</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Franc CFA BCEAO</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $27.7</li>
+	<li> <b>PIB/cap de locuitor:</b> $1958</li>
+	<li> <b>GINI:</b> 39,2</li>
+	<li> <b>HDI:</b> 0.470 (scazut)</li>
+	<li> <b>Somaj:</b> 48.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 54%</li>
+</ul>

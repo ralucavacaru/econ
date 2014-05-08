@@ -1,0 +1,16 @@
+<h3>Arabia Saudita</h3>
+
+<p><b>Regim politic: </b>Monarhie absoluta </p>
+
+<p><b>Moneda:</b> Rial saudit</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $937.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $31245</li>
+	<li> <b>HDI:</b> 0.782 (ridicat)</li>
+	<li> <b>Somaj:</b> 12.1%</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Unul dintre cei mai mari exportatori de petrol. </p>

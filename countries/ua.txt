@@ -1,0 +1,15 @@
+<h3>Ucraina</h3>
+
+<p><b>Regim politic: </b> Republica parlamentara </p>
+
+<p><b>Moneda:</b> Grivna </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $336.8 </li>
+	<li> <b>PIB/cap de locuitor:</b> $7423 </li>
+	<li> <b>GINI:</b> 26,4 </li>
+	<li> <b>HDI:</b> 0.740 (ridicat) </li>
+	<li> <b>Somaj:</b> 9.2% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 24.1% </li>
+</ul>

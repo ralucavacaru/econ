@@ -1,0 +1,24 @@
+<h3>Israel</h3>
+
+<p><b>Regim politic: </b>Republica Parlamentara Unitara </p>
+
+<p><b>Tip de economie: </b>Mixta, considerata cea mai durabila economie in fata unei crize. </p>
+
+<p><b>Moneda:</b> Shekel</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $286,840 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $35658</li>
+	<li> <b>GINI:</b> 39,2 (mediu)</li>
+	<li> <b>HDI:</b> 0,900 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 5.8% (nu a fost niciodata mai mare de 7%)</li>
+</ul>
+
+<p><b>Industrii principale: </b> Agricultura, finante, stiinta si tehnologie (nr 1 in lume la nivel de cercetare ca parte din pib), servicii, transport (au program spatial), turism, energie solara</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> SUA, Orientul mijlociu </li>
+	<li> <b>Import:</b> SUA (armament) </li>
+</ul>

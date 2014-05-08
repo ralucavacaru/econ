@@ -1,0 +1,15 @@
+<h3>Spania</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala </p>
+
+<p><b>Moneda:</b> Euro </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $1391.4</li>
+	<li> <b>PIB/cap de locuitor:</b> $29851</li>
+	<li> <b>GINI:</b> 34,7</li>
+	<li> <b>HDI:</b> 0.885 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 25.6%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 21.1%</li>
+</ul>

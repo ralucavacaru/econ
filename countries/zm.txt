@@ -1,0 +1,26 @@
+<h3>Zambia</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Tip de economie: </b>Economie mixta </p>
+
+<p><b>Moneda:</b> Kwacha</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $20,517 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $1473</li>
+	<li> <b>GINI:</b> 57.5 (ridicat)</li>
+	<li> <b>HDI:</b> 0.430 (scazut)
+</li>
+	<li> <b>Somaj:</b> 14%</li>
+</ul>
+
+<p><b>Industrii principale: </b>Foarte bazata pe cupru. Masini, echipament de transport, petrol, electricitate </p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> China, Africa de Sud, Congo, Coreea de Sud </li>
+	<li> <b>Import:</b> Africa de Sud, Congo, China, Kuweit </li>
+</ul>
+

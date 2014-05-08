@@ -1,0 +1,18 @@
+<h3>China</h3>
+
+<p><b>Regim politic: </b>Republica socialista monopartida</p>
+
+<p><b>Moneda:</b> Yuan renminbi</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $13395.4</li>
+	<li> <b>PIB/cap de locuitor:</b> $9844</li>
+	<li> <b>GINI:</b> 47</li>
+	<li> <b>HDI:</b> 0.699 (mediu)</li>
+	<li> <b>Somaj:</b> 4.1%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 13.4%</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>China este una dintre cele mai mari puteri economice la nivel mondial, dand imprumuturi gigantice statelor vestice (in special SUA). De asemenea, este singurul partener de comert al Coreei de Nord. </p>

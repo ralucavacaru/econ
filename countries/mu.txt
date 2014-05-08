@@ -1,0 +1,14 @@
+<h3>Mauritius</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Rupie mauritianã</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $20.9</li>
+	<li> <b>PIB/cap de locuitor:</b> $16056</li>
+	<li> <b>HDI:</b> 0.737 (ridicat)</li>
+	<li> <b>Somaj:</b> 7.9%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 8%</li>
+</ul>

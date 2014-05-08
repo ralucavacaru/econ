@@ -1,0 +1,27 @@
+<h3>Regatul Unit al Marii Britanii si al Irlandei de Nord</h3>
+
+<p><b>Regim politic: </b> Monarhie constitutionala parlamentara</p>
+
+<p><b>Tip de economie: </b> Capitalism liberal</p>
+
+<p><b>Moneda:</b> Lira sterlina</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $2,490 trilioane</li>
+	<li> <b>PIB/cap de locuitor:</b> $40879</li>
+	<li> <b>GINI:</b> 32.8 (mediu)</li>
+	<li> <b>HDI:</b>  0.875 (ridicat)</li>
+	<li> <b>Somaj:</b> 8.1%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Servicii financiare, energetica, tehnologia informatiei, etc</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> Germania, SUA, Olanda, Franta</li>
+	<li> <b>Import:</b> Germania, China, Olanda, SUA, Franta</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p> Bursa engleza creeaza tendintele investitiilor europene</p>

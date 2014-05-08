@@ -1,0 +1,15 @@
+<h3>Bolivia</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Boliviano</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $59.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $5364</li>
+	<li> <b>GINI:</b> 56,3</li>
+	<li> <b>HDI:</b> 0,680 (mediu)</li>
+	<li> <b>Somaj:</b> 7.5%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 49.6%</li>
+</ul>

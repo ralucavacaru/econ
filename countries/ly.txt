@@ -1,0 +1,15 @@
+<h3>Libia</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara cu guvern provizoriu </p>
+
+<p><b>Moneda:</b> Dinar libian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $70.4</li>
+	<li> <b>PIB/cap de locuitor:</b> $11494</li>
+	<li> <b>HDI:</b> 0.769 (ridicat)</li>
+	<li> <b>Somaj:</b> 13.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 30%</li>
+</ul>
+

@@ -1,0 +1,14 @@
+<h3>Cambodgia</h3>
+
+<p><b>Regim politic: </b>Monarhie Constitutionala </p>
+
+<p><b>Moneda:</b> Riel cambodgian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $39.7</li>
+	<li> <b>PIB/cap de locuitor:</b> $2576</li>
+	<li> <b>GINI:</b> 37,9</li>
+	<li> <b>HDI:</b> 0.543 (mediu)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 0.543 (mediu)</li>
+</ul>

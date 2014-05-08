@@ -1,0 +1,15 @@
+<h3>Camerun</h3>
+
+<p><b>Regim politic: </b> Republica prezidentiala</p>
+
+<p><b>Moneda:</b> Franc CFA BEAC</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $53.3</li>
+	<li> <b>PIB/cap de locuitor:</b> $2423</li>
+	<li> <b>GINI:</b> 38,9</li>
+	<li> <b>HDI:</b> 0.495 (scazut)</li>
+	<li> <b>Somaj:</b> 4.4%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 48%</li>
+</ul>

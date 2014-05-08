@@ -1,0 +1,15 @@
+<h3>Austria</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala</p>
+
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $361.4 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $42597</li>
+	<li> <b>GINI:</b> 26</li>
+	<li> <b>HDI:</b> 0.895 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 4.8%</li>
+</ul>

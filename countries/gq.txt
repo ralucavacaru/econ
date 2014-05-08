@@ -1,0 +1,14 @@
+<h3>Guineea Ecuatoriala</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc CFA BEAC</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $17.7</li>
+	<li> <b>PIB/cap de locuitor:</b> $23370</li>
+	<li> <b>HDI:</b> 0.554 (mediu)</li>
+	<li> <b>Somaj:</b> 22.3%</li>
+</ul>
+

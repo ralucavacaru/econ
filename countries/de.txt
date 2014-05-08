@@ -1,0 +1,17 @@
+<h3>Germania</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $3232.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $40007</li>
+	<li> <b>GINI:</b> 28,3</li>
+	<li> <b>HDI:</b> 0.920 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 15.5%</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Germania este statul din UE care da cele mai mare pachete de ajutor statelor din zona euro care au probleme financiare. Scopul este stabilizarea monedei euro. </p>

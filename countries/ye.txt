@@ -1,0 +1,25 @@
+<h3>Yemen</h3>
+
+<p><b>Regim politic: </b>Republica semi-presidentiala </p>
+
+<p><b>Tip de economie: </b>Economie traditionala </p>
+
+<p><b>Moneda:</b> Yemeni rial</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $43.89 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $2500</li>
+	<li> <b>GINI:</b> 37.8 (mediu) </li>
+	<li> <b>HDI:</b> 0.458  (scazut)        </li>
+	<li> <b>Somaj:</b> 35%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Industria alimentara, bumbacul, petrolul. </p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> China, Coreea de Sud, Thailanda, India  </li>
+	<li> <b>Import:</b> UE, UAE, Elvetia, China, India </li>
+</ul>
+

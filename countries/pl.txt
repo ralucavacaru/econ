@@ -1,0 +1,15 @@
+<h3>Polonia</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Zlot polonez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $817.5</li>
+	<li> <b>PIB/cap de locuitor:</b> $21214</li>
+	<li> <b>GINI:</b> 34,1</li>
+	<li> <b>HDI:</b> 0.821 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 9.7%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 10.6%</li>
+</ul>

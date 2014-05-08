@@ -1,0 +1,15 @@
+<h3>Coreea de Sud</h3>
+
+<p><b>Regim politic: </b> Republica prezidentiala</p>
+
+<p><b>Moneda:</b> Republica prezidentiala</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $1666.8</li>
+	<li> <b>PIB/cap de locuitor:</b> $34777</li>
+	<li> <b>GINI:</b> 31,3</li>
+	<li> <b>HDI:</b> 0.909 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 2.7%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 16%</li>
+</ul>

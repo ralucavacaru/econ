@@ -1,0 +1,14 @@
+<h3>Dominica</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Dolar est-caraiban</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $1.01</li>
+	<li> <b>PIB/cap de locuitor:</b> $14283</li>
+	<li> <b>HDI:</b> 0.745 (ridicat)</li>
+	<li> <b>Somaj:</b> 23.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 29%</li>
+</ul>

@@ -1,0 +1,16 @@
+<h3>Sudan</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Lira sudaneza</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $90.5</li>
+	<li> <b>PIB/cap de locuitor:</b> $2631</li>
+	<li> <b>GINI:</b> 45,5</li>
+	<li> <b>HDI:</b> 0.414 (scazut)</li>
+	<li> <b>Somaj:</b> 20.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 46.5%</li>
+</ul>
+

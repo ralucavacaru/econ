@@ -1,0 +1,13 @@
+<h3>Seichelles</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Rupie seychellezã</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $2.46</li>
+	<li> <b>PIB/cap de locuitor:</b> $26492</li>
+	<li> <b>GINI:</b> 65,8</li>
+	<li> <b>HDI:</b> 0.806 (foarte ridicat)</li>
+</ul>

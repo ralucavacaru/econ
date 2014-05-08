@@ -1,0 +1,22 @@
+<h3>Albania</h3>
+
+<p><b>Regim politic: </b>Democratie parlamentara sub forma de republica</p>
+
+<p><b>Tip de economie: </b> Economie in tranzitie catre economie de piata</p>
+
+<p><b>Moneda:</b> Lek albanez ALL</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $12.224 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $3837</li>
+	<li> <b>GINI:</b> 26.7(scazut)</li>
+	<li> <b>HDI:</b> 0.749(mare)</li>
+	<li> <b>Somaj:</b> 13.5%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Agricultura,Turism,Petrol</p>
+
+<p><b>Altele: </b> </p>
+<p>Cea mai saraca tara din Europa in afara celor din fostul bloc comunist. </p>
+

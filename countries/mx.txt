@@ -1,0 +1,16 @@
+<h3>Mexic</h3>
+
+<p><b>Regim politic: </b> Republica prezidentiala</p>
+
+<p><b>Moneda:</b> Peso mexican</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $1842.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $15563</li>
+	<li> <b>GINI:</b> 47</li>
+	<li> <b>HDI:</b> 0.775 (ridicat)</li>
+	<li> <b>Somaj:</b> 4.9%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 52.3%</li>
+</ul>
+

@@ -1,0 +1,27 @@
+<h3>Cipru</h3>
+
+<p><b>Regim politic: </b>Republica Prezidentiala </p>
+
+<p><b>Tip de economie: </b>Capitalism liberal, din Zona Euro </p>
+
+<p><b>Moneda:</b>Euro </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $23.006 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b>$26389 </li>
+	<li> <b>GINI:</b> 29,1 (scazut)</li>
+	<li> <b>HDI:</b> 0.8408 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 16.7%</li>
+</ul>
+
+<p><b>Industrii principale: </b>Finante, turism </p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> Uniunea Europeana  </li>
+	<li> <b>Import:</b> Uniunea Europeana  </li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Este un paradis fiscal. Are o parte mare din vina pentru Criza Euro. </p>

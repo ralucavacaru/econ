@@ -1,0 +1,12 @@
+<h3>Insulele Solomon</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala (sub coroana britanica) </p>
+
+<p><b>Moneda:</b> Dolar solomonian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $1.94</li>
+	<li> <b>PIB/cap de locuitor:</b> $3455</li>
+	<li> <b>HDI:</b> 0.530 (mediu)</li>
+</ul>

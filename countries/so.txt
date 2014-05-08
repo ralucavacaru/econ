@@ -1,0 +1,12 @@
+<h3>Somalia</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Siling somalez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $5.89</li>
+	<li> <b>PIB/cap de locuitor:</b> $600</li>
+	<li> <b>HDI:</b> 0.364 (scazut)</li>
+</ul>

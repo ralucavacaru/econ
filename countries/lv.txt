@@ -1,0 +1,14 @@
+<h3>Letonia</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Lats </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $38.9 </li>
+	<li> <b>PIB/cap de locuitor:</b> $19120 </li>
+	<li> <b>GINI:</b> 36,6 </li>
+	<li> <b>HDI:</b> 0.814 (foarte ridicat) </li>
+	<li> <b>Somaj:</b> 11.6% </li>
+</ul>

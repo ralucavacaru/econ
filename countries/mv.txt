@@ -1,0 +1,14 @@
+<h3>Maldive</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Rufiyaa</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $3.1</li>
+	<li> <b>PIB/cap de locuitor:</b> $9173 </li>
+	<li> <b>GINI:</b> 37,4</li>
+	<li> <b>HDI:</b> 0.688 (mediu)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 16%</li>
+</ul>

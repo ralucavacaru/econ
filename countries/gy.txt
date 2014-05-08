@@ -1,0 +1,15 @@
+<h3>Guyana</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Dolar guyanez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $6.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $1206</li>
+	<li> <b>GINI:</b> 44,5</li>
+	<li> <b>HDI:</b> 0.636 (mediu)</li>
+	<li> <b>Somaj:</b> 9.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 35%</li>
+</ul>

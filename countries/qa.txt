@@ -1,0 +1,17 @@
+<h3>Emiratele Arabe Unite</h3>
+
+<p><b>Regim politic: </b> Monarhie absoluta</p>
+
+<p><b>Moneda:</b> Rial qatarian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $199.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $98814</li>
+	<li> <b>GINI:</b> 41,1</li>
+	<li> <b>HDI:</b> 0.834 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 0.5%</li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Qatar are el mai mare PIB/cap de locuitor din lume. </p>

@@ -1,0 +1,15 @@
+<h3>Kenya</h3>
+
+<p><b>Regim politic: </b> Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Siling kenyan </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $80.4 </li>
+	<li> <b>PIB/cap de locuitor:</b> $1812 </li>
+	<li> <b>GINI:</b> 47,7 </li>
+	<li> <b>HDI:</b> 0.519 (scazut) </li>
+	<li> <b>Somaj:</b> 42.0% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 43.4% </li>
+</ul>

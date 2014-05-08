@@ -1,0 +1,20 @@
+<h3>Belgia</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala</p>
+
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $422.8 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $37881</li>
+	<li> <b>GINI:</b> 33</li>
+	<li> <b>HDI:</b> 0.897 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 8.5%</li>
+</ul>
+
+
+<p><b>Altele: </b></p>
+<p>Taxa standard TVA: 21%</p>
+

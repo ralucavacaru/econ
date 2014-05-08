@@ -1,0 +1,16 @@
+<h3>Kazakhstan</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Tenge</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $246.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $14391</li>
+	<li> <b>GINI:</b> 29</li>
+	<li> <b>HDI:</b> 0.754 (ridicat)</li>
+	<li> <b>Somaj:</b> 6.1%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 5.3%</li>
+</ul>
+

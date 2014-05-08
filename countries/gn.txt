@@ -1,0 +1,15 @@
+<h3>Guinea</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc guineean</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $12.5</li>
+	<li> <b>PIB/cap de locuitor:</b> $1125</li>
+	<li> <b>GINI:</b> 39,4</li>
+	<li> <b>HDI:</b> 0.355 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 47%</li>
+</ul>
+

@@ -1,0 +1,15 @@
+<h3>Etiopia</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara federala </p>
+
+<p><b>Moneda:</b> Birr</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $121.4</li>
+	<li> <b>PIB/cap de locuitor:</b> $1366</li>
+	<li> <b>GINI:</b> 29,8</li>
+	<li> <b>HDI:</b> 0.396 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 39%</li>
+</ul>
+

@@ -1,0 +1,16 @@
+<h3>Nepal</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara </p>
+
+<p><b>Moneda:</b> Rupie nepalezã</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $42.1</li>
+	<li> <b>PIB/cap de locuitor:</b> $1508</li>
+	<li> <b>GINI:</b> 32,8</li>
+	<li> <b>HDI:</b> 0.463 (scazut)</li>
+	<li> <b>Somaj:</b> 46.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 25.2%</li>
+</ul>
+

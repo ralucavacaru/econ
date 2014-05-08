@@ -1,0 +1,14 @@
+<h3>Republica Democrata Congo</h3>
+
+<p><b>Regim politic: </b> Republica semi-prezidentiala</p>
+
+<p><b>Moneda:</b> Franc congolez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $49.9</li>
+	<li> <b>PIB/cap de locuitor:</b> $648</li>
+	<li> <b>GINI:</b> 44,4</li>
+	<li> <b>HDI:</b> 0.304 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 71%</li>
+</ul>

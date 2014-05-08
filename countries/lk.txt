@@ -1,0 +1,15 @@
+<h3>Sri Lanka</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Rupie srilankezã</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $136.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $6531</li>
+	<li> <b>GINI:</b> 40,3</li>
+	<li> <b>HDI:</b> 0.715 (ridicat)</li>
+	<li> <b>Somaj:</b> 4.2%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 8.9%</li>
+</ul>

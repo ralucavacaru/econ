@@ -1,0 +1,15 @@
+<h3>Chile</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Peso chilian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $334.8</li>
+	<li> <b>PIB/cap de locuitor:</b> $19067</li>
+	<li> <b>GINI:</b> 52,1</li>
+	<li> <b>HDI:</b> 0.819 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 6.2%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 15.1%</li>
+</ul>

@@ -1,0 +1,13 @@
+<h3>Oman</h3>
+
+<p><b>Regim politic: </b>Monarhie absoluta </p>
+
+<p><b>Moneda:</b> Rial omanez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $95.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $29813</li>
+	<li> <b>HDI:</b> 0.731 (ridicat)</li>
+</ul>
+

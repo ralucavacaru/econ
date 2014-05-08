@@ -1,0 +1,12 @@
+<h3>Reunion</h3>
+
+<p><b>Regim politic: </b>Teritoriu dependent de Franta </p>
+
+<p><b>Moneda:</b> Euro</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $21.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $25051</li>
+	<li> <b>HDI:</b> 0.799 (ridicat)</li>
+</ul>

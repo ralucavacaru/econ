@@ -1,0 +1,14 @@
+<h3>Coasta de Fildes</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc CFA BCEAO</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $43.8</li>
+	<li> <b>PIB/cap de locuitor:</b> $1818</li>
+	<li> <b>GINI:</b> 41,5</li>
+	<li> <b>HDI:</b> 0.432 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 42%</li>
+</ul>

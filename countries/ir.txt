@@ -1,0 +1,27 @@
+<h3>Iran</h3>
+
+<p><b>Regim politic: </b>Republica Islamica </p>
+
+<p><b>Tip de economie: </b>Centralizata, planificata de stat </p>
+
+<p><b>Moneda:</b>Rial </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $974,406 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $12478</li>
+	<li> <b>GINI:</b> 0.38 (scazut)</li>
+	<li> <b>HDI:</b> 0.742 (ridicat)</li>
+	<li> <b>Somaj:</b> 10,3%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Petrol(detine 10% din petrol la nivel mondial), gaz (detine 15% din rezerva de gaz la nivel mondial), servicii, manufactura, agricultura, mining, biotehnologie, nanotehnologie, farmaceutice, industrie nucleara</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> Majoritatea statelor (petrol) </li>
+	<li> <b>Import:</b> SUA, Iraq </li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>Embargoul din 2012 le-a scazut moneda de la $1= 16.000 IRR la $1= 36.000 IRR </p>

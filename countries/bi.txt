@@ -1,0 +1,13 @@
+<h3>Burundi</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc burundez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $5.8</li>
+	<li> <b>PIB/cap de locuitor:</b> $642</li>
+	<li> <b>GINI:</b> 33,3</li>
+	<li> <b>HDI:</b> 0.355 (scazut)</li>
+</ul>

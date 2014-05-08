@@ -1,0 +1,14 @@
+<h3>Benin</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc CFA BCEAO</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $16.7</li>
+	<li> <b>PIB/cap de locuitor:</b> $1623</li>
+	<li> <b>GINI:</b> 38,6</li>
+	<li> <b>HDI:</b> 0.436 (scazut)</li>
+	<li> <b>Populatie sub limita saraciei:</b> 37.4%</li>
+</ul>

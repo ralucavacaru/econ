@@ -1,0 +1,27 @@
+<h3>Tailanda</h3>
+
+<p><b>Regim politic: </b> Monarhie constitutionala parlamentara unitara</p>
+
+<p><b>Tip de economie: </b> Economie de piata</p>
+
+<p><b>Moneda:</b> Baht</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $424,985 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $6572</li>
+	<li> <b>GINI:</b> 39.4</li>
+	<li> <b>HDI:</b> 0.690(mediu)</li>
+	<li> <b>Somaj:</b> 1%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Industria cauciucului, calculatoare si componente periferice, zahar</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> China, Japonia, US, Hong Kong </li>
+	<li> <b>Import:</b> Japonia, China, UAE </li>
+</ul>
+
+<p><b>Altele: </b></p>
+<p>In afara de a fi cel mai mare exportator de orez, Thailanda mai este numarul 1 mondial in exportul de cauciuc. </p>

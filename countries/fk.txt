@@ -1,0 +1,12 @@
+<h3>Insulele Falkland</h3>
+
+<p><b>Regim politic: </b> Monarhie constitutionala sub coroana britanica</p>
+
+<p><b>Moneda:</b> Coroanã daneza</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $0.16</li>
+	<li> <b>PIB/cap de locuitor:</b> $55400</li>
+	<li> <b>HDI:</b> 0.933 (foarte ridicat)</li>
+</ul>

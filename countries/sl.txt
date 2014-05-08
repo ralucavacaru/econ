@@ -1,0 +1,24 @@
+<h3>Sierra Leone</h3>
+
+<p><b>Regim politic: </b> Republica prezidentiala constitutionala</p>
+
+<p><b>Tip de economie: </b> Economie "exploatativa", bazata pe extragerea de resurse nesustenabile</p>
+
+<p><b>Moneda:</b> Leone</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $5,022 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $613</li>
+	<li> <b>GINI:</b> 35.4(mediu)</li>
+	<li> <b>HDI:</b> 0.336(scazut)</li>
+	<li> <b>Somaj:</b> tineri - 60%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Industrie extractiva - diamante, miniera , manufacturiera(tigari, incaltaminte, etc.), petrol</p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b>  China, Belgia, Japonia</li>
+	<li> <b>Import:</b>  China, India, Africa de Sud</li>
+</ul>

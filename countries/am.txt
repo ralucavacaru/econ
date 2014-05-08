@@ -1,0 +1,19 @@
+<h3>Angola</h3>
+
+<p><b>Regim politic: </b> Republica semi-prezidentiala</p>
+
+
+<p><b>Moneda:</b> Dram</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b>  $20.4 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $6191</li>
+	<li> <b>GINI:</b> 30,9</li>
+	<li> <b>HDI:</b> 0.729 (ridicat)</li>
+	<li> <b>Somaj:</b> 17.3%</li>
+</ul>
+
+<p><b>Industrii principale: </b> Agricultura,Turism,Petrol</p>
+
+

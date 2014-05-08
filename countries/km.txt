@@ -1,0 +1,15 @@
+<h3>Comore</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc comorian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $0.91</li>
+	<li> <b>PIB/cap de locuitor:</b> $1287</li>
+	<li> <b>GINI:</b> 64,3</li>
+	<li> <b>HDI:</b> 0.429 (scazut)</li>
+	<li> <b>Somaj:</b> 20.0%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 60%</li>
+</ul>

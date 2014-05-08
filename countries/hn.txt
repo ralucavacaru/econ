@@ -1,0 +1,16 @@
+<h3>Honduras</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Lempira</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $39.2</li>
+	<li> <b>PIB/cap de locuitor:</b> $4839</li>
+	<li> <b>GINI:</b> 17,2</li>
+	<li> <b>HDI:</b> 0.632 (mediu)</li>
+	<li> <b>Somaj:</b> 4.4%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 60%</li>
+</ul>
+

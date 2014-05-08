@@ -1,0 +1,15 @@
+<h3>Noua Zeelanda</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala (sub coroana britanica) </p>
+
+<p><b>Moneda:</b> Dolar neozeelandez</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $136.6</li>
+	<li> <b>PIB/cap de locuitor:</b> $30439</li>
+	<li> <b>GINI:</b> 36,2</li>
+	<li> <b>HDI:</b> 0.919 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 6.0%</li>
+</ul>
+

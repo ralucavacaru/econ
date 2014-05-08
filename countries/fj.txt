@@ -1,0 +1,15 @@
+<h3>Fiji</h3>
+
+<p><b>Regim politic: </b>Republica parlamentara condusa de guvern stabilit de armata </p>
+
+<p><b>Moneda:</b> Dolar fijian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $4.5</li>
+	<li> <b>PIB/cap de locuitor:</b> $5085</li>
+	<li> <b>GINI:</b> 42,8</li>
+	<li> <b>HDI:</b> 0.702 (mediu)</li>
+	<li> <b>Somaj:</b> 8.6%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 31%</li>
+</ul>

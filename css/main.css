@@ -1,0 +1,223 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+	
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+   
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Font-Face */
+
+@font-face {
+    font-family: "OldStyle";
+    src: url("fonts/OldStyle.ttf");
+}
+
+@font-face {
+    font-family: "Nilland";
+    src: url("fonts/Nilland.ttf");
+}
+
+@font-face {
+    font-family: "Linux Biolinum";
+    src: url("fonts/LinBiolinum_R.ttf");
+}
+
+/* Clearfix */
+
+.group:after {
+	visibility: hidden;
+	display: block;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+* html .group             { zoom: 1; } /* IE6 */
+*:first-child+html .group { zoom: 1; } /* IE7 */
+
+
+
+/* Body */
+
+html, body {
+	min-width: 1000px;
+	height: 100%;
+}
+
+header {
+	background: url("../images/header_bg.png");
+	width: 100%;
+}
+
+header #header-content, section.content-wrapper div.content, footer #footer-content {
+	width: 960px;
+	margin: 0 auto;
+}
+
+header #header-content {
+	text-align: center;
+	padding: 50px;
+	font-family: Calibri;
+	font-size: 40px;
+	color: #fff;
+}
+
+header nav {
+	width: 100%;
+	background-color: rgba(255, 255, 255, 0.05);
+}
+
+header nav a {
+	text-decoration: none;
+}
+
+header nav ul {
+	width: 960px;
+	margin: 0 auto;
+}
+
+header nav ul li {
+	float: left;
+	font-family: Calibri;
+	font-size: 20px;
+	line-height: 44px;
+	color: #fff;
+	padding: 0 18px;
+}
+
+header nav ul li:hover {
+	background-color: rgba(0, 0, 0, 0.15);
+	cursor: pointer;
+}
+
+footer {
+	width: 100%;
+	background: url("http://jqvmap.com/img/dark-bg.png");
+}
+
+footer #footer-content {
+	font-family: Calibri;
+	color: #fff;
+	text-align: center;
+	padding: 25px;
+}
+
+
+/* Fancybox Content */
+
+.fancybox-inner {
+	padding: 15px !important;
+	font-family: Calibri;
+	background: url("../images/bg.png");
+}
+
+.fancybox-inner h3 {
+	font-size: 23px;
+	color: #444;
+	display: block;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.fancybox-inner b {
+	font-weight: bold;
+}
+
+.fancybox-inner p {
+	display: block;
+	margin-bottom: 5px;
+	white-space: pre-wrap;
+}
+
+.fancybox-inner ul {
+	list-style-type: circle;
+	margin-bottom: 5px;
+}
+
+.fancybox-inner ul li {
+	margin: 2px 40px;
+}
+
+
+section.content-wrapper {
+	padding: 30px 0;
+	background: url("../images/bg.png");
+}
+
+
+div.content h3 {
+	font-family: Calibri;
+}
+
+div.content h4{
+	font-family: Calibri;
+	font-size: 26px;
+	margin-top: 25px;
+	margin-bottom: 8px;
+}
+
+div.content h4:first-child {
+	margin-top: 0;
+}
+
+div.content p {
+	text-align: justify;
+	font-family: Calibri;
+	font-size: 18px;
+	color: #222;
+	text-indent: 40px;
+	margin-bottom: 13px;
+	line-height: 25px;
+}
+
+div.content p:last-child {
+	margin-bottom: 0;
+}
+
+b {
+	font-weight: bold;
+}

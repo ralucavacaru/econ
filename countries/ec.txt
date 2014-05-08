@@ -1,0 +1,15 @@
+<h3>Ecuador</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Dolar american</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $159.0</li>
+	<li> <b>PIB/cap de locuitor:</b> $10080</li>
+	<li> <b>GINI:</b> 49,3</li>
+	<li> <b>HDI:</b> 0.724 (ridicat)</li>
+	<li> <b>Somaj:</b> 8.7%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 27.3%</li>
+</ul>

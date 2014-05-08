@@ -1,0 +1,16 @@
+<h3>Swaziland</h3>
+
+<p><b>Regim politic: </b> Monarhie absoluta </p>
+
+<p><b>Moneda:</b> Lilangeni, Rand sud-african </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $6.8 </li>
+	<li> <b>PIB/cap de locuitor:</b> $6218 </li>
+	<li> <b>GINI:</b> 51,5 </li>
+	<li> <b>HDI:</b> 0.536 (mediu) </li>
+	<li> <b>Somaj:</b> 40.6% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 69% </li>
+</ul>
+

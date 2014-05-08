@@ -1,0 +1,15 @@
+<h3>Tunisias</h3>
+
+<p><b>Regim politic: </b>Republica semi-prezidentiala </p>
+
+<p><b>Moneda:</b> Dinar tunisian</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $108.4</li>
+	<li> <b>PIB/cap de locuitor:</b> $9932</li>
+	<li> <b>GINI:</b> 41,4</li>
+	<li> <b>HDI:</b> 0.712 (ridicat)</li>
+	<li> <b>Somaj:</b> 13.3%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 3.8%</li>
+</ul>

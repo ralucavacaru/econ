@@ -1,0 +1,15 @@
+<h3>Belarus</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b>Rubla belarusa </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $149.1 </li>
+	<li> <b>PIB/cap de locuitor:</b> $15753</li>
+	<li> <b>GINI:</b> 36,5</li>
+	<li> <b>HDI:</b> 0.793 (ridicat)</li>
+	<li> <b>Somaj:</b> 0.5%</li>
+	<li> <b>Populatie sub limita saraciei:</b> 27.1%</li>
+</ul>

@@ -1,0 +1,13 @@
+<h3>Noua Caledonie</h3>
+
+<p><b>Regim politic: </b>Teritoriu dependent de Franta </p>
+
+<p><b>Moneda:</b> Franc CFP</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $9.28</li>
+	<li> <b>PIB/cap de locuitor:</b> $37700</li>
+	<li> <b>HDI:</b> 0.869 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 17.1%</li>
+</ul>

@@ -1,0 +1,15 @@
+<h3>Slovacia</h3>
+
+<p><b>Regim politic: </b> Republica parlamentara </p>
+
+<p><b>Moneda:</b> Euro </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $133.1 </li>
+	<li> <b>PIB/cap de locuitor:</b> $24605 </li>
+	<li> <b>GINI:</b> 26 </li>
+	<li> <b>HDI:</b> 0.840 (foarte ridicat) </li>
+	<li> <b>Somaj:</b> 13.9% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 21% </li>
+</ul>

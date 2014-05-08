@@ -1,0 +1,16 @@
+<h3>Japonia</h3>
+
+<p><b>Regim politic: </b> Monarhie Constitutionala </p>
+
+<p><b>Moneda:</b> Yen </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $4698.8 </li>
+	<li> <b>PIB/cap de locuitor:</b> $36889 </li>
+	<li> <b>GINI:</b> 38,1 </li>
+	<li> <b>HDI:</b> 0.912 (foarte ridicat) </li>
+	<li> <b>Somaj:</b> 3.9% </li>
+	<li> <b>Populatie sub limita saraciei:</b> 15% </li>
+</ul>
+

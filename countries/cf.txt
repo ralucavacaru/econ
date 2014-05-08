@@ -1,0 +1,14 @@
+<h3>Republica Centrafricana</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Moneda:</b> Franc CFA BEAC</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $2.5</li>
+	<li> <b>PIB/cap de locuitor:</b> $542</li>
+	<li> <b>GINI:</b> 56,3</li>
+	<li> <b>HDI:</b> 0.352 (scazut)</li>
+	<li> <b>Somaj:</b> 8.0%</li>
+</ul>

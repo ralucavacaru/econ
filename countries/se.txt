@@ -1,0 +1,14 @@
+<h3>Suedia</h3>
+
+<p><b>Regim politic: </b>Monarhie constitutionala </p>
+
+<p><b>Moneda:</b> Coroana suedeza</p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB (miliarde):</b> $396.8</li>
+	<li> <b>PIB/cap de locuitor:</b> $41188</li>
+	<li> <b>GINI:</b> 25</li>
+	<li> <b>HDI:</b> 0.916 (foarte ridicat)</li>
+	<li> <b>Somaj:</b> 8.1%</li>
+</ul>

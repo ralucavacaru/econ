@@ -1,0 +1,24 @@
+<h3>Zimbabwe</h3>
+
+<p><b>Regim politic: </b>Republica prezidentiala </p>
+
+<p><b>Tip de economie: </b>Economie mixta, cu tenta traditionala </p>
+
+<p><b>Moneda:</b> Din cauza hiperinflatiei, Zimbabwe foloseste mai multe monede cum ar fi dolarul american, randul sud-african, lira sterlina si Euro; dolarul american este moneda in care se efectueaza tranzactiile in administratia publica </p>
+
+<p><b>Performanta:</b></p>
+<ul>
+	<li> <b>PIB:</b> $10,978 miliarde</li>
+	<li> <b>PIB/cap de locuitor:</b> $837</li>
+	<li> <b>GINI:</b> 50.1 (ridicat)</li>
+	<li> <b>HDI:</b> 0.397 (scazut)</li>
+	<li> <b>Somaj:</b> 95%</li>
+</ul>
+
+<p><b>Industrii principale: </b>Agricultura, minerit,  </p>
+
+<p><b>Comert international: </b></p>
+<ul>
+	<li> <b>Export:</b> China, Africa de Sud, Congo. Botswana, Italia </li>
+	<li> <b>Import:</b> Africa de Sud, China </li>
+</ul>
